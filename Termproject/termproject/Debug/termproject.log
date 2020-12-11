@@ -1,0 +1,19 @@
+﻿  termprojectMain.cpp
+C:\Users\esthe\source\repos\Termproject\termproject\termprojectMain.cpp(20,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\esthe\source\repos\Termproject\termproject\termprojectMain.cpp(57,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\esthe\source\repos\Termproject\termproject\termprojectMain.cpp(59,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\esthe\source\repos\Termproject\termproject\termprojectMain.cpp(65,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\esthe\source\repos\Termproject\termproject\termprojectMain.cpp(82,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\esthe\source\repos\Termproject\termproject\termprojectMain.cpp(84,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\esthe\source\repos\Termproject\termproject\termprojectMain.cpp(98,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\esthe\source\repos\Termproject\termproject\termprojectMain.cpp(122,25): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\esthe\source\repos\Termproject\termproject\termprojectMain.cpp(161,65): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\esthe\source\repos\Termproject\termproject\termprojectMain.cpp(188,65): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\esthe\source\repos\Termproject\termproject\termprojectMain.cpp(209,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\esthe\source\repos\Termproject\termproject\termprojectMain.cpp(210,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\esthe\source\repos\Termproject\termproject\termprojectMain.cpp(236,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\esthe\source\repos\Termproject\termproject\termprojectMain.cpp(237,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\esthe\source\repos\Termproject\termproject\termprojectMain.cpp(263,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\esthe\source\repos\Termproject\termproject\termprojectMain.cpp(264,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\esthe\source\repos\Termproject\termproject\termprojectMain.cpp(373,28): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+  termproject.vcxproj -> C:\Users\esthe\source\repos\Termproject\Debug\termproject.exe
